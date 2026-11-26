@@ -1,0 +1,4 @@
+partition,Legitimate,Phishing,Total,Phishing share
+Train,299,544,843,0.6453143534994069
+Validation,100,182,282,0.6453900709219859
+Test,970,290,1260,0.23015873015873015

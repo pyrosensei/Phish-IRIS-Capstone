@@ -1,0 +1,5 @@
+case,actual,prediction,phishing score,largest occlusion drop,"patch (row, column from top left)"
+Detected phishing,Phishing,Phishing,0.783369243144989,0.4236963987350464,"(6, 5) of 6 × 6"
+Correct legitimate,Legitimate,Legitimate,0.16167309880256653,0.4212392568588257,"(2, 5) of 6 × 6"
+Missed phishing,Phishing,Legitimate,0.5266934633255005,0.1730824112892151,"(2, 2) of 6 × 6"
+False alert,Legitimate,Phishing,0.8865540623664856,0.9008002281188965,"(4, 1) of 6 × 6"
