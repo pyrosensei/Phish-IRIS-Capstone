@@ -1,0 +1,9 @@
+# Keep the main project report; exclude every other PDF.
+*.pdf
+!Phish_IRIS_Capstone_Report.pdf
+
+# Keep Codex sessions and local session state out of the repository.
+codex-session-*.md
+codex-session-*.jsonl
+rollout-*.jsonl
+.codex/
